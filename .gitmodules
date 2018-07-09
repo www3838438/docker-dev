@@ -1,3 +1,9 @@
 [submodule "source/vagrant-docker-compose"]
 	path = source/vagrant-docker-compose
 	url = https://github.com/cc3838438/vagrant-docker-compose.git
+[submodule "source/baseimage-docker"]
+	path = source/baseimage-docker
+	url = https://github.com/cc3838438/baseimage-docker.git
+[submodule "source/passenger-docker"]
+	path = source/passenger-docker
+	url = https://github.com/cc3838438/passenger-docker.git
