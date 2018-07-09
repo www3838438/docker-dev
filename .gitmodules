@@ -1,0 +1,3 @@
+[submodule "source/vagrant-docker-compose"]
+	path = source/vagrant-docker-compose
+	url = https://github.com/cc3838438/vagrant-docker-compose.git
